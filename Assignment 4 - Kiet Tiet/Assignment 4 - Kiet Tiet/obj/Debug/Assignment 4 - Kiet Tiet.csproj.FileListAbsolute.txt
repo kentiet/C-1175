@@ -1,0 +1,29 @@
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe.config
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.pdb
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csprojResolveAssemblyReference.cache
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Assigment4Form.resources
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Properties.Resources.resources
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csproj.GenerateResource.Cache
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.exe
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.pdb
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe.config
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.exe
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.pdb
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.pdb
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csprojResolveAssemblyReference.cache
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Assigment4Form.resources
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Properties.Resources.resources
+C:\Users\Tiet Kien Kiet\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csproj.GenerateResource.Cache
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe.config
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.exe
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.pdb
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.exe
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\bin\Debug\Assignment 4 - Kiet Tiet.pdb
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csprojResolveAssemblyReference.cache
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Assigment4Form.resources
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.Properties.Resources.resources
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment 4 - Kiet Tiet.csproj.GenerateResource.Cache
+D:\Onedrive - ken.nans\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.AboutBox.resources
+C:\Users\300265412\OneDrive\C# 1175\Assignment 4 - Kiet Tiet\Assignment 4 - Kiet Tiet\obj\Debug\Assignment_4___Kiet_Tiet.AboutBox.resources
